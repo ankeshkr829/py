@@ -1,3 +1,4 @@
 Flask==1.0.2
 numpy==1.16.2
 scikit-learn==0.20.3
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
